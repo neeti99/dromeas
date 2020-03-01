@@ -3,7 +3,10 @@ target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**
 !**/src/test/**
-
+**/tessdata
+**/test
+**/scratch
+.external-content.duckduckgo.com.jpg
 ### STS ###
 .apt_generated
 .classpath
