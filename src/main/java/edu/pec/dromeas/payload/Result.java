@@ -6,4 +6,8 @@ import lombok.Data;
 public class Result
 {
     private String result;
+
+    public void setResult(String result) {
+        this.result = result;
+    }
 }

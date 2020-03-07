@@ -31,10 +31,10 @@ public class TestController
         return testService.systemTest();
     }
 
-    @GetMapping("/tessa")
+  /*  @GetMapping("/tessa")
     public ResponseEntity<?> runTessaract()
     {
         return testService.runTessaract();
-    }
+    }*/
 
 }
